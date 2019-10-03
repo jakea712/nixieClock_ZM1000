@@ -20,7 +20,7 @@ U 1 1 5D974EC7
 P 5700 4000
 F 0 "U1" H 5700 4637 60  0000 C CNN
 F 1 "WeMos_mini" H 5700 4531 60  0000 C CNN
-F 2 "" H 6250 3300 60  0000 C CNN
+F 2 "BamboulabFootprints:D1_mini_board" H 6250 3300 60  0001 C CNN
 F 3 "" H 5700 4531 60  0000 C CNN
 	1    5700 4000
 	1    0    0    -1  
@@ -58,4 +58,46 @@ F 3 "" H 5100 3750 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5100 3750 5200 3750
+$Comp
+L Connector:Conn_01x08_Female J1
+U 1 1 5D97A7C7
+P 6600 3950
+F 0 "J1" H 6628 3926 50  0000 L CNN
+F 1 "Conn_01x08_Female" H 6628 3835 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 6600 3950 50  0001 C CNN
+F 3 "~" H 6600 3950 50  0001 C CNN
+	1    6600 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6400 3650 6200 3650
+Wire Wire Line
+	6200 3750 6400 3750
+Wire Wire Line
+	6400 3850 6200 3850
+Wire Wire Line
+	6200 3950 6400 3950
+Wire Wire Line
+	6400 4050 6200 4050
+Wire Wire Line
+	6200 4150 6400 4150
+Wire Wire Line
+	6400 4250 6200 4250
+Wire Wire Line
+	6200 4350 6400 4350
+$Comp
+L Connector:Conn_01x02_Female J2
+U 1 1 5D97C070
+P 4800 4350
+F 0 "J2" H 4900 4350 50  0000 C CNN
+F 1 "Conn_01x02_Female" H 4850 4450 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4800 4350 50  0001 C CNN
+F 3 "~" H 4800 4350 50  0001 C CNN
+	1    4800 4350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5200 4250 5000 4250
+Wire Wire Line
+	5000 4350 5200 4350
 $EndSCHEMATC
