@@ -15,9 +15,11 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L bambouLab:WeMos_mini U1
+L nixieClock_ZM1000-rescue:WeMos_mini-bambouLab U1
 U 1 1 5D974EC7
 P 5700 4000
+AR Path="/5D974EC7" Ref="U1"  Part="1" 
+AR Path="/5D9058C6/5D974EC7" Ref="U1"  Part="1" 
 F 0 "U1" H 5700 4637 60  0000 C CNN
 F 1 "WeMos_mini" H 5700 4531 60  0000 C CNN
 F 2 "BamboulabFootprints:D1_mini_board" H 6250 3300 60  0001 C CNN

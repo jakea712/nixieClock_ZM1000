@@ -14,41 +14,41 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 10600 3300 2    50   Input ~ 0
+Text HLabel 10600 3700 2    50   Input ~ 0
 BCD_T6A
-Text HLabel 10500 3400 2    50   Input ~ 0
-BCD_T6B
 Text HLabel 10400 3500 2    50   Input ~ 0
+BCD_T6B
+Text HLabel 10500 3400 2    50   Input ~ 0
 BCD_T6C
-Text HLabel 8050 3600 2    50   Input ~ 0
+Text HLabel 8050 3200 2    50   Input ~ 0
 BCD_T5A
-Text HLabel 7950 3700 2    50   Input ~ 0
-BCD_T5B
 Text HLabel 7850 3800 2    50   Input ~ 0
+BCD_T5B
+Text HLabel 7950 3700 2    50   Input ~ 0
 BCD_T5C
 Text HLabel 7750 3900 2    50   Input ~ 0
 BCD_T5D
-Text HLabel 5100 3900 2    50   Input ~ 0
+Text HLabel 5400 3200 2    50   Input ~ 0
 BCD_T4A
-Text HLabel 8050 3200 2    50   Input ~ 0
+Text HLabel 7750 3500 2    50   Input ~ 0
 BCD_T4B
-Text HLabel 7950 3300 2    50   Input ~ 0
+Text HLabel 8050 3600 2    50   Input ~ 0
 BCD_T4C
 Text HLabel 7850 3400 2    50   Input ~ 0
 BCD_T4D
 Text HLabel 10700 3600 2    50   Input ~ 0
 BCD_T6D
-Text HLabel 2500 3400 2    50   Input ~ 0
-BCD_T1C
 Text HLabel 2600 3700 2    50   Input ~ 0
+BCD_T1C
+Text HLabel 2500 3800 2    50   Input ~ 0
 BCD_T2A
-Text HLabel 2400 3900 2    50   Input ~ 0
+Text HLabel 2700 3200 2    50   Input ~ 0
 BCD_T2C
-Text HLabel 5200 3400 2    50   Input ~ 0
+Text HLabel 5200 3800 2    50   Input ~ 0
 BCD_T3A
-Text HLabel 5100 3500 2    50   Input ~ 0
-BCD_T3B
 Text HLabel 5400 3600 2    50   Input ~ 0
+BCD_T3B
+Text HLabel 5100 3500 2    50   Input ~ 0
 BCD_T3C
 Text HLabel 5300 3700 2    50   Input ~ 0
 BCD_T3D
@@ -63,7 +63,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 1800 3600 50  0001 C CNN
 	1    1800 3600
 	1    0    0    -1  
 $EndComp
-Text HLabel 2700 3200 2    50   Input ~ 0
+Text HLabel 2500 3400 2    50   Input ~ 0
 BCD_T1A
 $Comp
 L power:GND #PWR021
@@ -102,13 +102,13 @@ Wire Wire Line
 	1200 3700 1400 3700
 Wire Wire Line
 	1300 3800 1400 3800
-Text HLabel 5400 3200 2    50   Input ~ 0
+Text HLabel 5200 3400 2    50   Input ~ 0
 BCD_T2D
-Text HLabel 2500 3800 2    50   Input ~ 0
+Text HLabel 2400 3900 2    50   Input ~ 0
 BCD_T2B
 Text HLabel 2400 3500 2    50   Input ~ 0
 BCD_T1D
-Text HLabel 2600 3300 2    50   Input ~ 0
+Text HLabel 2700 3600 2    50   Input ~ 0
 BCD_T1B
 Wire Wire Line
 	2200 3600 2700 3600
@@ -288,17 +288,17 @@ Wire Wire Line
 	9200 3700 9400 3700
 Wire Wire Line
 	9300 3800 9400 3800
-Text HLabel 10600 3700 2    50   Input ~ 0
-DP6
 Text HLabel 10700 3200 2    50   Input ~ 0
+DP6
+Text HLabel 10600 3300 2    50   Input ~ 0
 DP5
-Text HLabel 7750 3500 2    50   Input ~ 0
+Text HLabel 7950 3300 2    50   Input ~ 0
 DP4
-Text HLabel 5200 3800 2    50   Input ~ 0
+Text HLabel 5100 3900 2    50   Input ~ 0
 DP3
 Text HLabel 5300 3300 2    50   Input ~ 0
 DP2
-Text HLabel 2700 3600 2    50   Input ~ 0
+Text HLabel 2600 3300 2    50   Input ~ 0
 DP1
 $Comp
 L Connector:Conn_01x03_Female J3
