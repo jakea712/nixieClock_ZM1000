@@ -14,43 +14,27 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 10600 3700 2    50   Input ~ 0
+Text HLabel 10600 3300 2    50   Input ~ 0
 BCD_T6A
 Text HLabel 10400 3500 2    50   Input ~ 0
 BCD_T6B
-Text HLabel 10500 3400 2    50   Input ~ 0
-BCD_T6C
-Text HLabel 8050 3200 2    50   Input ~ 0
-BCD_T5A
-Text HLabel 7850 3800 2    50   Input ~ 0
-BCD_T5B
-Text HLabel 7950 3700 2    50   Input ~ 0
-BCD_T5C
-Text HLabel 7750 3900 2    50   Input ~ 0
-BCD_T5D
-Text HLabel 5400 3200 2    50   Input ~ 0
-BCD_T4A
-Text HLabel 7750 3500 2    50   Input ~ 0
-BCD_T4B
-Text HLabel 8050 3600 2    50   Input ~ 0
-BCD_T4C
-Text HLabel 7850 3400 2    50   Input ~ 0
-BCD_T4D
 Text HLabel 10700 3600 2    50   Input ~ 0
+BCD_T6C
+Text HLabel 10500 3400 2    50   Input ~ 0
 BCD_T6D
-Text HLabel 2600 3700 2    50   Input ~ 0
-BCD_T1C
 Text HLabel 2500 3800 2    50   Input ~ 0
-BCD_T2A
-Text HLabel 2700 3200 2    50   Input ~ 0
-BCD_T2C
-Text HLabel 5200 3800 2    50   Input ~ 0
-BCD_T3A
-Text HLabel 5400 3600 2    50   Input ~ 0
-BCD_T3B
-Text HLabel 5100 3500 2    50   Input ~ 0
-BCD_T3C
+BCD_T1C
 Text HLabel 5300 3700 2    50   Input ~ 0
+BCD_T2A
+Text HLabel 2500 3400 2    50   Input ~ 0
+BCD_T2C
+Text HLabel 5300 3300 2    50   Input ~ 0
+BCD_T3A
+Text HLabel 5100 3500 2    50   Input ~ 0
+BCD_T3B
+Text HLabel 5400 3600 2    50   Input ~ 0
+BCD_T3C
+Text HLabel 5200 3400 2    50   Input ~ 0
 BCD_T3D
 $Comp
 L 74xx:74HC595 U14
@@ -63,7 +47,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 1800 3600 50  0001 C CNN
 	1    1800 3600
 	1    0    0    -1  
 $EndComp
-Text HLabel 2500 3400 2    50   Input ~ 0
+Text HLabel 2400 3500 2    50   Input ~ 0
 BCD_T1A
 $Comp
 L power:GND #PWR021
@@ -102,13 +86,13 @@ Wire Wire Line
 	1200 3700 1400 3700
 Wire Wire Line
 	1300 3800 1400 3800
-Text HLabel 5200 3400 2    50   Input ~ 0
+Text HLabel 5200 3800 2    50   Input ~ 0
 BCD_T2D
-Text HLabel 2400 3900 2    50   Input ~ 0
+Text HLabel 2600 3300 2    50   Input ~ 0
 BCD_T2B
-Text HLabel 2400 3500 2    50   Input ~ 0
-BCD_T1D
 Text HLabel 2700 3600 2    50   Input ~ 0
+BCD_T1D
+Text HLabel 2600 3700 2    50   Input ~ 0
 BCD_T1B
 Wire Wire Line
 	2200 3600 2700 3600
@@ -124,8 +108,6 @@ Wire Wire Line
 	2200 3400 2500 3400
 Wire Wire Line
 	2200 3300 2600 3300
-Wire Wire Line
-	2200 3200 2700 3200
 $Comp
 L 74xx:74HC595 U15
 U 1 1 5DBA8ADB
@@ -184,8 +166,6 @@ Wire Wire Line
 	4900 3400 5200 3400
 Wire Wire Line
 	4900 3300 5300 3300
-Wire Wire Line
-	4900 3200 5400 3200
 $Comp
 L 74xx:74HC595 U16
 U 1 1 5DBAB05B
@@ -242,8 +222,6 @@ Wire Wire Line
 	7550 3400 7850 3400
 Wire Wire Line
 	7550 3300 7950 3300
-Wire Wire Line
-	7550 3200 8050 3200
 $Comp
 L 74xx:74HC595 U17
 U 1 1 5D93C146
@@ -290,46 +268,12 @@ Wire Wire Line
 	9300 3800 9400 3800
 Text HLabel 10700 3200 2    50   Input ~ 0
 DP6
-Text HLabel 10600 3300 2    50   Input ~ 0
+Text HLabel 10600 3700 2    50   Input ~ 0
 DP5
-Text HLabel 7950 3300 2    50   Input ~ 0
-DP4
 Text HLabel 5100 3900 2    50   Input ~ 0
-DP3
-Text HLabel 5300 3300 2    50   Input ~ 0
 DP2
-Text HLabel 2600 3300 2    50   Input ~ 0
+Text HLabel 2400 3900 2    50   Input ~ 0
 DP1
-$Comp
-L Connector:Conn_01x03_Female J3
-U 1 1 5D9437D9
-P 10800 3900
-F 0 "J3" H 10828 3926 50  0000 L CNN
-F 1 "SPARE" H 10828 3835 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 10800 3900 50  0001 C CNN
-F 3 "~" H 10800 3900 50  0001 C CNN
-	1    10800 3900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10200 3800 10600 3800
-Wire Wire Line
-	10200 3900 10600 3900
-$Comp
-L power:GND #PWR020
-U 1 1 5D946805
-P 10500 4100
-F 0 "#PWR020" H 10500 3850 50  0001 C CNN
-F 1 "GND" H 10505 3927 50  0000 C CNN
-F 2 "" H 10500 4100 50  0001 C CNN
-F 3 "" H 10500 4100 50  0001 C CNN
-	1    10500 4100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10500 4100 10500 4000
-Wire Wire Line
-	10500 4000 10600 4000
 Wire Wire Line
 	3250 4100 3250 3200
 Wire Wire Line
@@ -363,4 +307,32 @@ Wire Wire Line
 	10200 3300 10600 3300
 Wire Wire Line
 	10200 3200 10700 3200
+NoConn ~ 2200 3200
+NoConn ~ 4900 3200
+Text HLabel 7750 3500 2    50   Input ~ 0
+DP4
+Text HLabel 8050 3600 2    50   Input ~ 0
+BCD_T4D
+Text HLabel 7850 3800 2    50   Input ~ 0
+BCD_T4C
+Text HLabel 7950 3700 2    50   Input ~ 0
+BCD_T4B
+Text HLabel 7850 3400 2    50   Input ~ 0
+BCD_T5C
+Text HLabel 10450 3900 2    50   Input ~ 0
+BCD_T5D
+Text HLabel 7950 3300 2    50   Input ~ 0
+BCD_T5B
+Text HLabel 10550 3800 2    50   Input ~ 0
+BCD_T5A
+Text HLabel 8050 3200 2    50   Input ~ 0
+BCD_T4A
+Text HLabel 7750 3900 2    50   Input ~ 0
+DP3
+Wire Wire Line
+	7550 3200 8050 3200
+Wire Wire Line
+	10200 3800 10550 3800
+Wire Wire Line
+	10450 3900 10200 3900
 $EndSCHEMATC

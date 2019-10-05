@@ -71,7 +71,7 @@ Wire Wire Line
 	1400 1100 2100 1100
 Connection ~ 1400 1100
 $Comp
-L bambouLab:LM3478 U?
+L nixieClock_ZM1000-rescue:LM3478-bambouLab U?
 U 1 1 5D92238D
 P 3400 2550
 AR Path="/5D92238D" Ref="U?"  Part="1" 
