@@ -27,13 +27,13 @@ F 3 "" H 5700 4531 60  0000 C CNN
 	1    5700 4000
 	1    0    0    -1  
 $EndComp
-Text HLabel 4500 3950 0    50   Input ~ 0
-BLANK
-Text HLabel 4500 3850 0    50   Input ~ 0
-TUBETX
 Text HLabel 4500 4050 0    50   Input ~ 0
-SHIFTCLK
+BLANK
 Text HLabel 4500 4150 0    50   Input ~ 0
+TUBETX
+Text HLabel 4500 3850 0    50   Input ~ 0
+SHIFTCLK
+Text HLabel 4500 3950 0    50   Input ~ 0
 STORAGECLK
 Wire Wire Line
 	5200 4150 4500 4150
