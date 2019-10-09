@@ -516,20 +516,6 @@ F 3 "~" H 4600 3050 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	6100 4050 6450 4050
-$Comp
-L Device:Transformer_1P_1S T?
-U 1 1 5D9223FE
-P 5700 3850
-AR Path="/5D9223FE" Ref="T?"  Part="1" 
-AR Path="/5D8D5A25/5D9223FE" Ref="T?"  Part="1" 
-AR Path="/5D90562D/5D9223FE" Ref="T1"  Part="1" 
-F 0 "T1" H 5700 4231 50  0000 C CNN
-F 1 "Transformer_1P_1S" H 5700 4140 50  0000 C CNN
-F 2 "BamboulabFootprints:CTX02-18714-R" H 5700 3850 50  0001 C CNN
-F 3 "~" H 5700 3850 50  0001 C CNN
-	1    5700 3850
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	5300 4050 4900 4050
 Wire Wire Line
@@ -549,7 +535,7 @@ AR Path="/5D9EB488" Ref="C?"  Part="1"
 AR Path="/5D8D5A25/5D9EB488" Ref="C?"  Part="1" 
 AR Path="/5D90562D/5D9EB488" Ref="C?"  Part="1" 
 F 0 "C?" H 2315 2846 50  0000 L CNN
-F 1 "0.01u" H 2315 2755 50  0000 L CNN
+F 1 "1n" H 2315 2755 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 2238 2650 50  0001 C CNN
 F 3 "~" H 2200 2800 50  0001 C CNN
 	1    2200 2800
@@ -585,4 +571,15 @@ Wire Wire Line
 	2200 2650 2200 2450
 Wire Wire Line
 	2200 2450 2550 2450
+$Comp
+L Nixies:Transformer_1P_1S T?
+U 1 1 5DA0088A
+P 5700 3850
+F 0 "T?" H 5700 4231 50  0000 C CNN
+F 1 "Transformer_1P_1S" H 5700 4140 50  0000 C CNN
+F 2 "" H 5700 3850 50  0001 C CNN
+F 3 "~" H 5700 3850 50  0001 C CNN
+	1    5700 3850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

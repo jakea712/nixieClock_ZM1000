@@ -96,7 +96,7 @@ AR Path="/5D922395" Ref="C?"  Part="1"
 AR Path="/5D8D5A25/5D922395" Ref="C?"  Part="1" 
 AR Path="/5D90562D/5D922395" Ref="C4"  Part="1" 
 F 0 "C4" V 2198 2100 50  0000 C CNN
-F 1 "22n" V 2289 2100 50  0000 C CNN
+F 1 "100n" V 2289 2100 50  0000 C CNN
 F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 2488 1950 50  0001 C CNN
 F 3 "~" H 2450 2100 50  0001 C CNN
 	1    2450 2100
@@ -110,7 +110,7 @@ AR Path="/5D92239B" Ref="R?"  Part="1"
 AR Path="/5D8D5A25/5D92239B" Ref="R?"  Part="1" 
 AR Path="/5D90562D/5D92239B" Ref="R20"  Part="1" 
 F 0 "R20" V 1743 2100 50  0000 C CNN
-F 1 "4k7" V 1834 2100 50  0000 C CNN
+F 1 "1k" V 1834 2100 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1880 2100 50  0001 C CNN
 F 3 "~" H 1950 2100 50  0001 C CNN
 	1    1950 2100
@@ -188,7 +188,7 @@ AR Path="/5D9223C3" Ref="C?"  Part="1"
 AR Path="/5D8D5A25/5D9223C3" Ref="C?"  Part="1" 
 AR Path="/5D90562D/5D9223C3" Ref="C5"  Part="1" 
 F 0 "C5" H 3515 3646 50  0000 L CNN
-F 1 "0.01u" H 3515 3555 50  0000 L CNN
+F 1 "10n" H 3515 3555 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 3438 3450 50  0001 C CNN
 F 3 "~" H 3400 3600 50  0001 C CNN
 	1    3400 3600
@@ -248,7 +248,7 @@ AR Path="/5D9223E5" Ref="C?"  Part="1"
 AR Path="/5D8D5A25/5D9223E5" Ref="C?"  Part="1" 
 AR Path="/5D90562D/5D9223E5" Ref="C3"  Part="1" 
 F 0 "C3" V 4248 1850 50  0000 C CNN
-F 1 "0.1u" V 4339 1850 50  0000 C CNN
+F 1 "100n" V 4339 1850 50  0000 C CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" H 4538 1700 50  0001 C CNN
 F 3 "~" H 4500 1850 50  0001 C CNN
 	1    4500 1850
@@ -336,43 +336,43 @@ $EndComp
 $Comp
 L Device:R R?
 U 1 1 5D92242D
-P 1250 2800
+P 1250 2650
 AR Path="/5D92242D" Ref="R?"  Part="1" 
 AR Path="/5D8D5A25/5D92242D" Ref="R?"  Part="1" 
 AR Path="/5D90562D/5D92242D" Ref="R22"  Part="1" 
-F 0 "R22" V 1457 2800 50  0000 C CNN
-F 1 "1M" V 1366 2800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1180 2800 50  0001 C CNN
-F 3 "~" H 1250 2800 50  0001 C CNN
-	1    1250 2800
+F 0 "R22" V 1457 2650 50  0000 C CNN
+F 1 "1M" V 1366 2650 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1180 2650 50  0001 C CNN
+F 3 "~" H 1250 2650 50  0001 C CNN
+	1    1250 2650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R?
 U 1 1 5D922433
-P 1550 2800
+P 1550 2650
 AR Path="/5D922433" Ref="R?"  Part="1" 
 AR Path="/5D8D5A25/5D922433" Ref="R?"  Part="1" 
 AR Path="/5D90562D/5D922433" Ref="R23"  Part="1" 
-F 0 "R23" V 1757 2800 50  0000 C CNN
-F 1 "820k" V 1666 2800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1480 2800 50  0001 C CNN
-F 3 "~" H 1550 2800 50  0001 C CNN
-	1    1550 2800
+F 0 "R23" V 1757 2650 50  0000 C CNN
+F 1 "820k" V 1666 2650 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1480 2650 50  0001 C CNN
+F 3 "~" H 1550 2650 50  0001 C CNN
+	1    1550 2650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R?
 U 1 1 5D922439
-P 1850 2800
+P 1850 2650
 AR Path="/5D922439" Ref="R?"  Part="1" 
 AR Path="/5D8D5A25/5D922439" Ref="R?"  Part="1" 
 AR Path="/5D90562D/5D922439" Ref="R24"  Part="1" 
-F 0 "R24" V 2057 2800 50  0000 C CNN
-F 1 "24k" V 1966 2800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1780 2800 50  0001 C CNN
-F 3 "~" H 1850 2800 50  0001 C CNN
-	1    1850 2800
+F 0 "R24" V 2057 2650 50  0000 C CNN
+F 1 "24k" V 1966 2650 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1780 2650 50  0001 C CNN
+F 3 "~" H 1850 2650 50  0001 C CNN
+	1    1850 2650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -457,7 +457,7 @@ Wire Notes Line
 	800  5050 800  700 
 Text Notes 800  700  0    50   ~ 0
 HV
-Text HLabel 1300 2450 0    50   Input ~ 0
+Text HLabel 1250 2900 3    50   Input ~ 0
 HV
 Wire Wire Line
 	5300 3650 5150 3650
@@ -530,56 +530,65 @@ Connection ~ 4900 3150
 $Comp
 L Device:C C?
 U 1 1 5D9EB488
-P 2200 2800
+P 2200 2650
 AR Path="/5D9EB488" Ref="C?"  Part="1" 
 AR Path="/5D8D5A25/5D9EB488" Ref="C?"  Part="1" 
-AR Path="/5D90562D/5D9EB488" Ref="C?"  Part="1" 
-F 0 "C?" H 2315 2846 50  0000 L CNN
-F 1 "1n" H 2315 2755 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 2238 2650 50  0001 C CNN
-F 3 "~" H 2200 2800 50  0001 C CNN
-	1    2200 2800
+AR Path="/5D90562D/5D9EB488" Ref="C11"  Part="1" 
+F 0 "C11" H 2315 2696 50  0000 L CNN
+F 1 "1n" H 2315 2605 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 2238 2500 50  0001 C CNN
+F 3 "~" H 2200 2650 50  0001 C CNN
+	1    2200 2650
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1300 2450 1350 2450
-Wire Wire Line
-	1350 2450 1350 2600
-Wire Wire Line
-	1350 2600 1250 2600
-Wire Wire Line
-	1250 2600 1250 2650
-Wire Wire Line
-	1250 2950 1250 3000
-Wire Wire Line
-	1250 3000 1550 3000
-Wire Wire Line
-	1550 3000 1550 2950
-Wire Wire Line
-	1550 2650 1550 2600
-Wire Wire Line
-	1550 2600 1850 2600
-Wire Wire Line
-	1850 2600 1850 2650
-Wire Wire Line
-	1850 2950 1850 3000
-Wire Wire Line
-	1850 3000 2200 3000
-Wire Wire Line
-	2200 3000 2200 2950
-Wire Wire Line
-	2200 2650 2200 2450
-Wire Wire Line
 	2200 2450 2550 2450
 $Comp
-L Nixies:Transformer_1P_1S T?
+L Nixies:Transformer_1P_1S T1
 U 1 1 5DA0088A
 P 5700 3850
-F 0 "T?" H 5700 4231 50  0000 C CNN
+F 0 "T1" H 5700 4231 50  0000 C CNN
 F 1 "Transformer_1P_1S" H 5700 4140 50  0000 C CNN
-F 2 "" H 5700 3850 50  0001 C CNN
+F 2 "BamboulabFootprints:Transformer_LPR6235" H 5700 3850 50  0001 C CNN
 F 3 "~" H 5700 3850 50  0001 C CNN
 	1    5700 3850
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2200 2450 2200 2500
+$Comp
+L power:GND #PWR?
+U 1 1 5D9EB12F
+P 2200 2900
+AR Path="/5D9EB12F" Ref="#PWR?"  Part="1" 
+AR Path="/5D8D5A25/5D9EB12F" Ref="#PWR?"  Part="1" 
+AR Path="/5D90562D/5D9EB12F" Ref="#PWR0105"  Part="1" 
+F 0 "#PWR0105" H 2200 2650 50  0001 C CNN
+F 1 "GND" H 2205 2727 50  0000 C CNN
+F 2 "" H 2200 2900 50  0001 C CNN
+F 3 "" H 2200 2900 50  0001 C CNN
+	1    2200 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 2900 2200 2800
+Wire Wire Line
+	2200 2450 1850 2450
+Wire Wire Line
+	1850 2450 1850 2500
+Connection ~ 2200 2450
+Wire Wire Line
+	1850 2800 1850 2850
+Wire Wire Line
+	1850 2850 1550 2850
+Wire Wire Line
+	1550 2850 1550 2800
+Wire Wire Line
+	1550 2500 1550 2450
+Wire Wire Line
+	1550 2450 1250 2450
+Wire Wire Line
+	1250 2450 1250 2500
+Wire Wire Line
+	1250 2800 1250 2900
 $EndSCHEMATC

@@ -1,4 +1,4 @@
-16651517476333843
+16720650273346244
 BamboulabFootprints
 Altoid
 
@@ -6174,6 +6174,90 @@ capacitor tantalum
 2
 2
 Capacitor_Tantalum_SMD
+CP_EIA-7132-20_AVX-U
+Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-20_AVX-U_Pad2.72x3.50mm_HandSolder
+Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-28_AVX-C
+Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
+Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-15_AVX-R
+Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-15_AVX-R_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-20_AVX-M
+Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-20_AVX-M_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-28_AVX-M
+Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-28_AVX-M_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-38_AVX-R
+Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
 CP_EIA-7343-15_Kemet-W
 Tantalum Capacitor SMD Kemet-W (7343-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
 capacitor tantalum
@@ -9450,6 +9534,104 @@ connector Hirose 40pin receptacle vertical
 42
 42
 Connector_Hirose
+Hirose_DF3EA-02P-2H_1x02-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-02P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+4
+3
+Connector_Hirose
+Hirose_DF3EA-03P-2H_1x03-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-03P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+5
+4
+Connector_Hirose
+Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-04P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+6
+5
+Connector_Hirose
+Hirose_DF3EA-05P-2H_1x05-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-05P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+7
+6
+Connector_Hirose
+Hirose_DF3EA-06P-2H_1x06-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-06P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+8
+7
+Connector_Hirose
+Hirose_DF3EA-07P-2H_1x07-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-07P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+9
+8
+Connector_Hirose
+Hirose_DF3EA-08P-2H_1x08-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-08P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+10
+9
+Connector_Hirose
+Hirose_DF3EA-09P-2H_1x09-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-09P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+11
+10
+Connector_Hirose
+Hirose_DF3EA-10P-2H_1x10-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-10P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+12
+11
+Connector_Hirose
+Hirose_DF3EA-11P-2H_1x11-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-11P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+13
+12
+Connector_Hirose
+Hirose_DF3EA-12P-2H_1x12-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-12P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+14
+13
+Connector_Hirose
+Hirose_DF3EA-13P-2H_1x13-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-13P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+15
+14
+Connector_Hirose
+Hirose_DF3EA-14P-2H_1x14-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-14P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+16
+15
+Connector_Hirose
+Hirose_DF3EA-15P-2H_1x15-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-15P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+17
+16
+Connector_Hirose
 Hirose_DF11-4DP-2DSA_2x02_P2.00mm_Vertical
 Hirose DF11 through hole, DF11-4DP-2DSA, 2 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
 connector Hirose DF11 vertical
@@ -12686,7 +12868,7 @@ connector JST SUR top entry
 Connector_JST
 JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical
 JST VH PBT series connector, B2P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 2
 2
@@ -12700,7 +12882,14 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B2P-VH_1x02_P3.96mm_Vertical
 JST VH series connector, B2P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
+0
+2
+2
+Connector_JST
+JST_VH_B2P3-VH_1x02_P7.92mm_Vertical
+JST VH series connector, B2P3-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
+connector JST VH vertical
 0
 2
 2
@@ -12714,7 +12903,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B3P-VH-B_1x03_P3.96mm_Vertical
 JST VH PBT series connector, B3P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 3
 3
@@ -12728,7 +12917,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B3P-VH_1x03_P3.96mm_Vertical
 JST VH series connector, B3P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 3
 3
@@ -12742,7 +12931,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B4P-VH-B_1x04_P3.96mm_Vertical
 JST VH PBT series connector, B4P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 4
 4
@@ -12756,7 +12945,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B4P-VH_1x04_P3.96mm_Vertical
 JST VH series connector, B4P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 4
 4
@@ -12770,7 +12959,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B5P-VH-B_1x05_P3.96mm_Vertical
 JST VH PBT series connector, B5P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 5
 5
@@ -12784,7 +12973,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B5P-VH_1x05_P3.96mm_Vertical
 JST VH series connector, B5P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 5
 5
@@ -12798,7 +12987,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B6P-VH-B_1x06_P3.96mm_Vertical
 JST VH PBT series connector, B6P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 6
 6
@@ -12812,7 +13001,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B6P-VH_1x06_P3.96mm_Vertical
 JST VH series connector, B6P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 6
 6
@@ -12826,7 +13015,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B7P-VH-B_1x07_P3.96mm_Vertical
 JST VH PBT series connector, B7P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 7
 7
@@ -12840,7 +13029,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B7P-VH_1x07_P3.96mm_Vertical
 JST VH series connector, B7P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 7
 7
@@ -12854,7 +13043,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B8P-VH-B_1x08_P3.96mm_Vertical
 JST VH PBT series connector, B8P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 8
 8
@@ -12868,7 +13057,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B8P-VH_1x08_P3.96mm_Vertical
 JST VH series connector, B8P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 8
 8
@@ -12882,7 +13071,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B9P-VH-B_1x09_P3.96mm_Vertical
 JST VH PBT series connector, B9P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 9
 9
@@ -12896,7 +13085,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B9P-VH_1x09_P3.96mm_Vertical
 JST VH series connector, B9P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 9
 9
@@ -12910,7 +13099,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B10P-VH-B_1x10_P3.96mm_Vertical
 JST VH PBT series connector, B10P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 10
 10
@@ -12924,7 +13113,7 @@ connector JST VH side entry
 Connector_JST
 JST_VH_B10P-VH_1x10_P3.96mm_Vertical
 JST VH series connector, B10P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 10
 10
@@ -12938,7 +13127,7 @@ connector JST VH top entry
 Connector_JST
 JST_VH_B11P-VH-B_1x11_P3.96mm_Vertical
 JST VH PBT series connector, B11P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
-connector JST VH side entry
+connector JST VH vertical
 0
 11
 11
@@ -17622,6 +17811,104 @@ Connector_Molex
 Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical
 Molex SPOX Connector System, 5267-15A, 15 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
 connector Molex SPOX side entry
+0
+15
+15
+Connector_Molex
+Molex_SPOX_5268-02A_1x02_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-02A, 2 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+2
+2
+Connector_Molex
+Molex_SPOX_5268-03A_1x03_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-03A, 3 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+3
+3
+Connector_Molex
+Molex_SPOX_5268-04A_1x04_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-04A, 4 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+4
+4
+Connector_Molex
+Molex_SPOX_5268-05A_1x05_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-05A, 5 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+5
+5
+Connector_Molex
+Molex_SPOX_5268-06A_1x06_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-06A, 6 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+6
+6
+Connector_Molex
+Molex_SPOX_5268-07A_1x07_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-07A, 7 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+7
+7
+Connector_Molex
+Molex_SPOX_5268-08A_1x08_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-08A, 8 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+8
+8
+Connector_Molex
+Molex_SPOX_5268-09A_1x09_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-09A, 9 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+9
+9
+Connector_Molex
+Molex_SPOX_5268-10A_1x10_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-10A, 10 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+10
+10
+Connector_Molex
+Molex_SPOX_5268-11A_1x11_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-11A, 11 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+11
+11
+Connector_Molex
+Molex_SPOX_5268-12A_1x12_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-12A, 12 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+12
+12
+Connector_Molex
+Molex_SPOX_5268-13A_1x13_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-13A, 13 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+13
+13
+Connector_Molex
+Molex_SPOX_5268-14A_1x14_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-14A, 14 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
+0
+14
+14
+Connector_Molex
+Molex_SPOX_5268-15A_1x15_P2.50mm_Horizontal
+Molex SPOX Connector System, 5268-15A, 15 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
+connector Molex SPOX horizontal
 0
 15
 15
@@ -40999,6 +41286,13 @@ USB_B USB B vertical female connector
 6
 5
 Connector_USB
+USB_C_Plug_JAE_DX07P024AJ1
+Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, https://www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1
+USB Type-C Plug Edge Mount
+0
+30
+25
+Connector_USB
 USB_C_Plug_Molex_105444
 Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.molex.com/pdm_docs/sd/1054440001_sd.pdf
 USB Type-C Plug Edge Mount
@@ -55524,6 +55818,20 @@ QFN NoLead
 127
 65
 Package_DFN_QFN
+QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm
+QFN, 64 Pin (https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf#page=77), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+74
+65
+Package_DFN_QFN
+QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm_ThermalVias
+QFN, 64 Pin (https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf#page=77), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+79
+65
+Package_DFN_QFN
 QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm
 QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf (page 1083)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
@@ -59977,8 +60285,8 @@ MSOP SO
 9
 Package_SO
 MSOP-8_3x3mm_P0.65mm
-8-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
 0
 8
 8
@@ -62126,17 +62434,10 @@ SuperSOT-8 SSOT-8
 8
 Package_TO_SOT_SMD
 TDSON-8-1
-Power MOSFET package, TDSON-8-1, SuperS08, SON-8_5x6mm
+Power MOSFET package, TDSON-8-1, 5.15x5.9mm (https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-1/)
 tdson 
 0
-13
-5
-Package_TO_SOT_SMD
-TDSON-8-1_HandSoldering
-Power MOSFET package, TDSON-8-1, SuperS08, SON-8_5x6mm
-tdson 
-0
-13
+14
 5
 Package_TO_SOT_SMD
 TO-50-3_LongPad-NoHole_Housing
@@ -67696,6 +67997,13 @@ Temperature and humidity module
 0
 4
 4
+Sensor
+MQ-6
+Gas Sensor, 6 pin, https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf
+gas sensor
+0
+6
+6
 Sensor
 SHT1x
 SHT1x
