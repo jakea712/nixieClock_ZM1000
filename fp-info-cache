@@ -1,4 +1,4 @@
-16720650273346244
+16730076713108022
 BamboulabFootprints
 Altoid
 
@@ -37618,6 +37618,13 @@ AJP92A8813 8P8C RJ45 ethernet plug
 8
 8
 Connector_RJ
+RJ45_Pulse_JXD6-0001NL_Horizontal
+RJ45 ethernet transformer with magnetics (https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf)
+ethernet 8p8c transformer magjack
+0
+12
+11
+Connector_RJ
 RJ45_Wuerth_7499010121A_Horizontal
 10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal https://katalog.we-online.de/pbs/datasheet/7499010121A.pdf
 RJ45 ethernet magnetic
@@ -37631,6 +37638,13 @@ ethernet lan connector
 0
 32
 29
+Connector_RJ
+RJ45_Wuerth_74980111211_Horizontal
+RJ45 LAN Transformer 10/100BaseT (https://katalog.we-online.de/pbs/datasheet/74980111211.pdf)
+lan magnetics transformer
+0
+14
+13
 Connector_SATA_SAS
 SAS-mini_TEConnectivity_1888174_Vertical
 36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English
@@ -46655,6 +46669,13 @@ Bourns SRR1005 SMD inductor
 2
 2
 Inductor_SMD
+L_Bourns-SRU1028_10.0x10.0mm
+Bourns SRU1028 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRU1028.pdf
+Bourns SRU1028 SMD inductor
+0
+2
+2
+Inductor_SMD
 L_Bourns-SRU8043
 Bourns SRU8043 series SMD inductor
 Bourns SRU8043 SMD inductor
@@ -46732,6 +46753,13 @@ inductor
 2
 2
 Inductor_SMD
+L_Coilcraft_XAL60xx_6.36x6.56mm
+Coilcraft XAL60xx series, https://www.coilcraft.com/pdfs/xal60xx.pdf
+L Coilcraft XAL60xx
+0
+2
+2
+Inductor_SMD
 L_Coilcraft_XAL5030
 L_Coilcraft_XAL5030
 L Coilcraft XAL5030
@@ -46805,6 +46833,13 @@ Inductor_SMD
 L_Murata_DEM35xxC
 https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundferritetypeforpl/m_dem3518c.ashx
 Inductor SMD DEM35xxC
+0
+2
+2
+Inductor_SMD
+L_Murata_LQH2MCNxxxx02_2.0x1.6mm
+Inductor, Murata, LQH2MCN_02 series, 1.6x2.0x0.9mm (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)
+chip coil inductor Murata LQH2MC
 0
 2
 2
@@ -74577,6 +74612,13 @@ varistor SIOV
 0
 2
 2
+nixies
+BME280
+
+
+0
+6
+6
 nixies
 Nixie_ZM1000
 
