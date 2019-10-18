@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Nixies:ZM1000 U10
+L nixieClock_ZM1000-rescue:ZM1000-Nixies U10
 U 1 1 5D979FEC
 P 8800 4650
 AR Path="/5D904EA9/5D979FEC" Ref="U10"  Part="1" 
@@ -28,7 +28,7 @@ F 3 "" V 8950 4600 60  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Nixies:ZM1000 U9
+L nixieClock_ZM1000-rescue:ZM1000-Nixies U9
 U 1 1 5D980CEC
 P 5200 4650
 AR Path="/5D904EA9/5D980CEC" Ref="U9"  Part="1" 
@@ -41,7 +41,7 @@ F 3 "" V 5350 4600 60  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Nixies:ZM1000 U8
+L nixieClock_ZM1000-rescue:ZM1000-Nixies U8
 U 1 1 5D98680C
 P 1600 4650
 AR Path="/5D904EA9/5D98680C" Ref="U8"  Part="1" 
@@ -54,7 +54,7 @@ F 3 "" V 1750 4600 60  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Nixies:ZM1000 U2
+L nixieClock_ZM1000-rescue:ZM1000-Nixies U2
 U 1 1 5D988EF7
 P 1600 1950
 AR Path="/5D904EA9/5D988EF7" Ref="U2"  Part="1" 
@@ -67,7 +67,7 @@ F 3 "" V 1750 1900 60  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Nixies:ZM1000 U3
+L nixieClock_ZM1000-rescue:ZM1000-Nixies U3
 U 1 1 5D988F01
 P 5200 1950
 AR Path="/5D904EA9/5D988F01" Ref="U3"  Part="1" 
@@ -80,7 +80,7 @@ F 3 "" V 5350 1900 60  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Nixies:ZM1000 U4
+L nixieClock_ZM1000-rescue:ZM1000-Nixies U4
 U 1 1 5D988F0B
 P 8800 1950
 AR Path="/5D904EA9/5D988F0B" Ref="U4"  Part="1" 
@@ -93,11 +93,12 @@ F 3 "" V 8950 1900 60  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Nixies:SN74141 U13
+L nixieClock_ZM1000-rescue:SN74141-Nixies U13
 U 1 1 5D8DD700
 P 9900 4850
 AR Path="/5D904EA9/5D8DD700" Ref="U13"  Part="1" 
 AR Path="/5DB44C0F/5D8DD700" Ref="U?"  Part="1" 
+AR Path="/5D8DD700" Ref="U13"  Part="1" 
 F 0 "U13" V 9800 5200 50  0000 R CNN
 F 1 "SN74141" V 9800 4850 50  0000 R CNN
 F 2 "Package_DIP:DIP-16_W7.62mm" H 9900 4900 50  0001 C CNN
@@ -226,11 +227,12 @@ Wire Wire Line
 Wire Wire Line
 	9200 4200 9200 4050
 $Comp
-L Nixies:SN74141 U12
+L nixieClock_ZM1000-rescue:SN74141-Nixies U12
 U 1 1 5D92735A
 P 6300 4850
 AR Path="/5D904EA9/5D92735A" Ref="U12"  Part="1" 
 AR Path="/5DB44C0F/5D92735A" Ref="U?"  Part="1" 
+AR Path="/5D92735A" Ref="U12"  Part="1" 
 F 0 "U12" V 6200 5200 50  0000 R CNN
 F 1 "SN74141" V 6200 4850 50  0000 R CNN
 F 2 "Package_DIP:DIP-16_W7.62mm" H 6300 4900 50  0001 C CNN
@@ -319,11 +321,12 @@ HV
 Text HLabel 7900 1900 0    50   Input ~ 0
 HV
 $Comp
-L Nixies:SN74141 U11
+L nixieClock_ZM1000-rescue:SN74141-Nixies U11
 U 1 1 5D92C1CA
 P 2700 4850
 AR Path="/5D904EA9/5D92C1CA" Ref="U11"  Part="1" 
 AR Path="/5DB44C0F/5D92C1CA" Ref="U?"  Part="1" 
+AR Path="/5D92C1CA" Ref="U11"  Part="1" 
 F 0 "U11" V 2600 5200 50  0000 R CNN
 F 1 "SN74141" V 2600 4850 50  0000 R CNN
 F 2 "Package_DIP:DIP-16_W7.62mm" H 2700 4900 50  0001 C CNN
@@ -412,11 +415,12 @@ Wire Wire Line
 Text HLabel 10400 4700 2    50   Input ~ 0
 BCD_T6D
 $Comp
-L Nixies:SN74141 U5
+L nixieClock_ZM1000-rescue:SN74141-Nixies U5
 U 1 1 5D94B1B0
 P 2700 2150
 AR Path="/5D904EA9/5D94B1B0" Ref="U5"  Part="1" 
 AR Path="/5DB44C0F/5D94B1B0" Ref="U?"  Part="1" 
+AR Path="/5D94B1B0" Ref="U5"  Part="1" 
 F 0 "U5" V 2600 2500 50  0000 R CNN
 F 1 "SN74141" V 2600 2150 50  0000 R CNN
 F 2 "Package_DIP:DIP-16_W7.62mm" H 2700 2200 50  0001 C CNN
@@ -512,11 +516,12 @@ Wire Wire Line
 Wire Wire Line
 	2000 1500 2000 1350
 $Comp
-L Nixies:SN74141 U6
+L nixieClock_ZM1000-rescue:SN74141-Nixies U6
 U 1 1 5D94B1F1
 P 6300 2150
 AR Path="/5D904EA9/5D94B1F1" Ref="U6"  Part="1" 
 AR Path="/5DB44C0F/5D94B1F1" Ref="U?"  Part="1" 
+AR Path="/5D94B1F1" Ref="U6"  Part="1" 
 F 0 "U6" V 6200 2500 50  0000 R CNN
 F 1 "SN74141" V 6200 2150 50  0000 R CNN
 F 2 "Package_DIP:DIP-16_W7.62mm" H 6300 2200 50  0001 C CNN
@@ -595,11 +600,12 @@ Wire Wire Line
 Wire Wire Line
 	5600 1500 5600 1350
 $Comp
-L Nixies:SN74141 U7
+L nixieClock_ZM1000-rescue:SN74141-Nixies U7
 U 1 1 5D94B233
 P 9900 2150
 AR Path="/5D904EA9/5D94B233" Ref="U7"  Part="1" 
 AR Path="/5DB44C0F/5D94B233" Ref="U?"  Part="1" 
+AR Path="/5D94B233" Ref="U7"  Part="1" 
 F 0 "U7" V 9800 2500 50  0000 R CNN
 F 1 "SN74141" V 9800 2150 50  0000 R CNN
 F 2 "Package_DIP:DIP-16_W7.62mm" H 9900 2200 50  0001 C CNN

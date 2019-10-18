@@ -544,7 +544,7 @@ $EndComp
 Wire Wire Line
 	2200 2450 2550 2450
 $Comp
-L Nixies:Transformer_1P_1S T1
+L nixieClock_ZM1000-rescue:Transformer_1P_1S-Nixies T1
 U 1 1 5DA0088A
 P 5700 3850
 F 0 "T1" H 5700 4231 50  0000 C CNN

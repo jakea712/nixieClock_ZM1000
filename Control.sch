@@ -82,7 +82,7 @@ Wire Wire Line
 Wire Wire Line
 	6200 4150 6400 4150
 $Comp
-L bambouLab:BME280 U19
+L nixieClock_ZM1000-rescue:BME280-bambouLab U19
 U 1 1 5DA4BB9B
 P 7400 3800
 F 0 "U19" H 7628 3953 60  0000 L CNN

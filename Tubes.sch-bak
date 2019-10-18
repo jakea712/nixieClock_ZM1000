@@ -100,7 +100,7 @@ AR Path="/5D904EA9/5D8DD700" Ref="U13"  Part="1"
 AR Path="/5DB44C0F/5D8DD700" Ref="U?"  Part="1" 
 F 0 "U13" V 9800 5200 50  0000 R CNN
 F 1 "SN74141" V 9800 4850 50  0000 R CNN
-F 2 "Package_DIP:DIP-16_W7.62mm_LongPads" H 9900 4900 50  0001 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm" H 9900 4900 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 9900 4900 50  0001 C CNN
 	1    9900 4850
 	-1   0    0    1   
@@ -233,7 +233,7 @@ AR Path="/5D904EA9/5D92735A" Ref="U12"  Part="1"
 AR Path="/5DB44C0F/5D92735A" Ref="U?"  Part="1" 
 F 0 "U12" V 6200 5200 50  0000 R CNN
 F 1 "SN74141" V 6200 4850 50  0000 R CNN
-F 2 "Package_DIP:DIP-16_W7.62mm_LongPads" H 6300 4900 50  0001 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm" H 6300 4900 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 6300 4900 50  0001 C CNN
 	1    6300 4850
 	-1   0    0    1   
@@ -326,7 +326,7 @@ AR Path="/5D904EA9/5D92C1CA" Ref="U11"  Part="1"
 AR Path="/5DB44C0F/5D92C1CA" Ref="U?"  Part="1" 
 F 0 "U11" V 2600 5200 50  0000 R CNN
 F 1 "SN74141" V 2600 4850 50  0000 R CNN
-F 2 "Package_DIP:DIP-16_W7.62mm_LongPads" H 2700 4900 50  0001 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm" H 2700 4900 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 2700 4900 50  0001 C CNN
 	1    2700 4850
 	-1   0    0    1   
@@ -419,7 +419,7 @@ AR Path="/5D904EA9/5D94B1B0" Ref="U5"  Part="1"
 AR Path="/5DB44C0F/5D94B1B0" Ref="U?"  Part="1" 
 F 0 "U5" V 2600 2500 50  0000 R CNN
 F 1 "SN74141" V 2600 2150 50  0000 R CNN
-F 2 "Package_DIP:DIP-16_W7.62mm_LongPads" H 2700 2200 50  0001 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm" H 2700 2200 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 2700 2200 50  0001 C CNN
 	1    2700 2150
 	-1   0    0    1   
@@ -519,7 +519,7 @@ AR Path="/5D904EA9/5D94B1F1" Ref="U6"  Part="1"
 AR Path="/5DB44C0F/5D94B1F1" Ref="U?"  Part="1" 
 F 0 "U6" V 6200 2500 50  0000 R CNN
 F 1 "SN74141" V 6200 2150 50  0000 R CNN
-F 2 "Package_DIP:DIP-16_W7.62mm_LongPads" H 6300 2200 50  0001 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm" H 6300 2200 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 6300 2200 50  0001 C CNN
 	1    6300 2150
 	-1   0    0    1   
@@ -602,7 +602,7 @@ AR Path="/5D904EA9/5D94B233" Ref="U7"  Part="1"
 AR Path="/5DB44C0F/5D94B233" Ref="U?"  Part="1" 
 F 0 "U7" V 9800 2500 50  0000 R CNN
 F 1 "SN74141" V 9800 2150 50  0000 R CNN
-F 2 "Package_DIP:DIP-16_W7.62mm_LongPads" H 9900 2200 50  0001 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm" H 9900 2200 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" H 9900 2200 50  0001 C CNN
 	1    9900 2150
 	-1   0    0    1   
